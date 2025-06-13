@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi, I'm Manishaa
 
-<!--
-**Manisha-Tmg/Manisha-Tmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | 💻 Full-Stack Explorer | 🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a passionate frontend developer with hands-on experience in building responsive, real-world web applications using **React.js**, **Django**, and **PostgreSQL**. I love solving problems through clean UI, modular code, and meaningful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+
+- 🩺 [ConnectCare](#) — Full-stack caretaker booking platform with role-based dashboards and real-time notifications  
+- 🐾 [Pawssible Love](#) — Pet adoption and e-commerce platform with a focus on clean UX  
+- 🛠️ [Sewa Samasya](#) — Civic issue reporting system for public problem-solving  
+
+---
+
+### 🧠 Skills & Tools
+
+**Frontend:** React.js • JavaScript • HTML • CSS • Tailwind CSS  
+**Backend:** Django • Django REST Framework • Python  
+**Database:** PostgreSQL  
+**Others:** Git • Figma • Postman • Firebase (basic)
+
+---
+
+### 💡 Interests
+
+- Designing interactive and accessible UIs  
+- Building scalable backend APIs  
+- Real-time features using WebSockets (Django Channels)  
+- Contributing to tech-for-good and social impact projects  
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/manisha-tamang-a01211289/)  
+- 📧 manishatamang752@gmail.com
+
+---
+
+
+
+> “Code is the closest thing we have to magic.” ✨
