@@ -18,16 +18,15 @@ I'm a passionate frontend developer with hands-on experience in building respons
 
 **Frontend:** React.js • JavaScript • HTML • CSS • Tailwind CSS  
 **Backend:** Django • Django REST Framework • Python  
-**Database:** PostgreSQL  
-**Others:** Git • Figma • Postman • Firebase (basic)
+**Database:** PostgreSQL ,Mongodb
+**Others:** Git • Figma • Postman • Firebase (basic) •Cloudinary
 
 ---
 
 ### 💡 Interests
 
 - Designing interactive and accessible UIs  
-- Building scalable backend APIs  
-- Real-time features using WebSockets (Django Channels)  
+- Building scalable backend APIs   
 - Contributing to tech-for-good and social impact projects  
 
 ---
