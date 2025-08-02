@@ -6,7 +6,7 @@ I'm a passionate frontend developer with hands-on experience in building respons
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - 🩺 [ConnectCare](#) — Full-stack caretaker booking platform with role-based dashboards and real-time notifications  
 - 🐾 [Pawssible Love](#) — Pet adoption and e-commerce platform with a focus on clean UX  
@@ -14,7 +14,7 @@ I'm a passionate frontend developer with hands-on experience in building respons
 
 ---
 
-### 🧠 Skills & Tools
+### Skills & Tools
 
 **Frontend:** React.js • JavaScript • HTML • CSS • Tailwind CSS  
 **Backend:** Django • Django REST Framework • Python  
@@ -23,7 +23,7 @@ I'm a passionate frontend developer with hands-on experience in building respons
 
 ---
 
-### 💡 Interests
+### Interests
 
 - Designing interactive and accessible UIs  
 - Building scalable backend APIs   
@@ -31,7 +31,7 @@ I'm a passionate frontend developer with hands-on experience in building respons
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/manisha-tamang-a01211289/)  
 - 📧 manishatamang752@gmail.com
